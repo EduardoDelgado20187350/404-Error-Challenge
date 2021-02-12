@@ -1,0 +1,36 @@
+.title {
+    font-family: 'Courier New';
+    margin: 10px;
+    position: relative;
+    left: 40px;
+    top: 30px;
+    font-size: 19px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    top: 170px;
+}
+
+.title-text {
+    font-family: 'Courier New';
+    display: inline-block;
+    position: relative;
+    font-size: 40px;
+}
+
+.text {
+    font-family: 'Courier New';
+    display: inline-block;
+    position: relative;
+    bottom: 150px;
+    left: 580px;
+    font-size: 20px;
+}
+
+button {
+    position: relative;
+    left: 275px;
+}
